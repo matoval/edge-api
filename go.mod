@@ -26,9 +26,9 @@ require (
 	github.com/sirupsen/logrus v1.8.1
 	github.com/spf13/viper v1.12.0
 	gopkg.in/confluentinc/confluent-kafka-go.v1 v1.8.2
-	gorm.io/driver/postgres v1.3.7
+	gorm.io/driver/postgres v1.3.9
 	gorm.io/driver/sqlite v1.3.4
-	gorm.io/gorm v1.23.4
+	gorm.io/gorm v1.23.7
 )
 
 go 1.16
